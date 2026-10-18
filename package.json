@@ -1,0 +1,21 @@
+{
+  "name": "dare",
+  "version": "1.0.0",
+  "description": "Creating an end-to-end decentralized application on Ethereum",
+  "keywords": [
+    "DARE",
+    "blockchain",
+    "ethereum"
+  ],
+  "license": "ISC",
+  "author": "Maxime Foucart",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "Mocha"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.2",
+    "hardhat": "^2.29.1"
+  }
+}
